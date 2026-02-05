@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import resumeFile from "../assets/Aswin p r.pdf";
+import resumeFile from "../assets/Aswin_PR.pdf";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
